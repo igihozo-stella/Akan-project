@@ -1,10 +1,12 @@
 # Akan Names
+## 27/09/2020
 ## Description
 This is  a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 Akan names are derived from Ghanian culture.  
 ## AUTHOR: IGIHOZO Stella Marlyne
 ## Setup/Installation Requirements
 ### Requirements
+- UBUNTU
 - Atom or Visual studio code
 ### Setup and installation
 - Clone this repository to a location in your file system through your terminal command line. git clone link
