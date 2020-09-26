@@ -27,3 +27,8 @@ Akan names are derived from Ghanian culture.
 3. Displays an Error Message if Gender Not Chosen
 - INPUT: ""
 - OUTPUT: "Display an Error Message"
+## Support and Contact Details
+you can contact me on: igihozo96@gmail.com
+## License
+MIT License
+Copyright &copy2020 | Stella
