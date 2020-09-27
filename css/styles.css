@@ -26,3 +26,17 @@ form{padding:10px 30px; background: rgb(230, 140, 5); box-shadow: 0 0 15px rgba(
     background:rgb(13, 6, 82);
     transition: all 0.5s ease-in;
 }
+.output{
+    
+    padding:3px 10px;
+    background:rgb(114, 74, 14); 
+    margin-top:5px;
+
+}
+.output p{
+    color:white;
+    font-size:40px;
+    padding:0;
+    margin:0;
+    text-align:center;
+}
