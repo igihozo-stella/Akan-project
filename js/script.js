@@ -9,6 +9,14 @@ function myFunction(){
 
     if((date <=0 || date>31) || (month <=0 || month >12)){
         alert("Invalid Data, Please Check your month or date");
-    } else if
+    } else {
+        var d=new Date (fullDate);
+        var n=d.getDay();
+        if (gender==="Male"){
+            document.getElementById("paragraph").innerHTML="Your Akan Name is "+maleNames[n];
+        }else{
+            document.getElementById("paragraph").innerHTML="Your Akan Name is "+femaleNames[n];
+        }
+    }
 
 }
