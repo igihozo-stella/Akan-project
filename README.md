@@ -9,7 +9,7 @@ Akan names are derived from Ghanian culture.
 - UBUNTU
 - Atom or Visual studio code
 ### Setup and installation
-- Clone this repository to a location in your file system through your terminal command line. git clone link
+- Clone this repository to a location in your file system through your terminal command line. git clone https://github.com/igihozo-stella/Akan-project
 - Open terminal command line then navigate to the root folder of the application. cd Akan-project
 - Open your text editor using your terminal command line.
 - Open index.html in your browser.
