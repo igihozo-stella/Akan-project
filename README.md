@@ -17,7 +17,6 @@ Akan names are derived from Ghanian culture.
 - Html5
 - Css
 - Javascript
-- Bootstrap
 ## BDD
 1. Displays Form For Entering Date and Gender
 - INPUT: "User's Birthdate Entered"
