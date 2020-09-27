@@ -40,3 +40,16 @@ form{padding:10px 30px; background: rgb(230, 140, 5); box-shadow: 0 0 15px rgba(
     margin:0;
     text-align:center;
 }
+@media screen and (max-width: 650px) {
+    .container{
+        width:95%; margin:auto;
+    }
+    .col-6{
+        width:100%;
+        float:none;
+    }
+    .desc h1{
+        font-size:40px;
+    }
+}
+
