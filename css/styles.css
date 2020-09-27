@@ -13,3 +13,12 @@ form{padding:10px 30px; background: rgb(230, 140, 5); box-shadow: 0 0 15px rgba(
 .form input::placeholder, .form select{
     font-family:'Abel', sans-serif;
 }
+.form button {
+    font-family:'Abel', sans-serif;
+    background:black;
+    color:white;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+    border-radius:4px;
+}
